@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pract8</string>
+    <string name="parallel">Параллельно 2 задачи</string>
+    <string name="posled">Последовательно 3 задачи</string>
+</resources>
